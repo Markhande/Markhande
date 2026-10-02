@@ -11,7 +11,7 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 - **Cross-platform** — Kotlin Multiplatform (KMP)  
 - **Automotive** — Android Automotive, AOSP, HAL / VHAL, HMI  
 - **On-device AI** — practical ML features that run on phone / car hardware  
-- **Hardware** — ESP32 and Bluetooth-connected controllers
+- **Hardware** — ESP32 and Bluetooth-connected controllers 
 
 ---
 
@@ -24,6 +24,7 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 | [Take-Pills](https://github.com/Markhande/Take-Pills) | Kotlin medication reminder app |
 | [Auto Equalizer](https://github.com/Markhande/audioCrisper) | AI Audio Crisper |
 | [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | AI Auto Face Detection |
+| [Android Game](https://github.com/Markhande/Android-Game) | C# Hyper Causual Game |
 
 ---
 
