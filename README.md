@@ -23,7 +23,7 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 | [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer-vision / C++ utility for precise center detection |
 | [Take-Pills](https://github.com/Markhande/Take-Pills) | Kotlin medication reminder app |
 | [5G-Network](https://github.com/Markhande/5G-Network) | Kotlin networking / 5G-focused exploration |
-| [starter-pack-dependacies](https://github.com/Markhande/starter-pack-dependacies) | Reusable Android starter dependencies pack |
+| [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | AI Auto Face Detection |
 
 ---
 
