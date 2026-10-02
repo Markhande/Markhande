@@ -22,7 +22,7 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 | [Esp32_Bluetooth_Controller](https://github.com/Markhande/Esp32_Bluetooth_Controller) | Android + ESP32 Bluetooth control app |
 | [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer-vision / C++ utility for precise center detection |
 | [Take-Pills](https://github.com/Markhande/Take-Pills) | Kotlin medication reminder app |
-| [Auto Equalizer](https://github.com/Markhande/audioCrisper/settings) | AI Audio Crisper |
+| [Auto Equalizer](https://github.com/Markhande/audioCrisper) | AI Audio Crisper |
 | [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | AI Auto Face Detection |
 
 ---
