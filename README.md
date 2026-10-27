@@ -12,8 +12,6 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 - **Automotive** — Android Automotive, AOSP, HAL / VHAL, HMI  
 - **On-device AI** — practical ML features that run on phone / car hardware  
 - **Hardware** — ESP32 and Bluetooth-connected controllers 
-- **Android HMI** — Android HMI,AAOS, In-Vehicle Infotainment
-
 ---
 
 ### Featured work
