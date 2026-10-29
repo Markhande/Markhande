@@ -6,16 +6,36 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 
 ---
 
-### What I work on
-- **Android** — Kotlin, Jetpack Compose, MVVM, Clean Architecture  
-- **Cross-Platform** — Kotlin Multiplatform (KMP)  
-- **Automotive** — Android Automotive OS (AAOS), AOSP, HAL / VHAL, HMI  
-- **On-Device AI** — Practical ML features running on mobile and car hardware  
-- **Hardware & IoT** — ESP32, Bluetooth Classic (RFCOMM), and BLE-connected controllers  
+### 💻 Skills & Technical Expertise
+
+#### 📱 Mobile & Android Core
+- **Languages:** Kotlin (100%), Java, C++
+- **UI Frameworks:** Jetpack Compose, Material Design 3, Custom Canvas Drawing, Glassmorphism / Haze Blur, Android Views
+- **Architecture:** Clean Architecture, MVVM, MVI, Multi-Module Projects, Repository Pattern
+- **Async & Reactive:** Kotlin Coroutines, StateFlow, SharedFlow, Channels
+- **Dependency Injection:** Dagger Hilt, Koin
+- **Storage & Data:** Room Database, DataStore Preferences, SQLite, Android KeyStore Security
+
+#### 🚗 Automotive & Hardware (AOSP & IoT)
+- **Automotive:** Android Automotive OS (AAOS), AOSP, Vehicle HAL (VHAL), Car App Library, HMI Cluster UI
+- **Hardware & Wireless Protocols:** Bluetooth Classic (RFCOMM/SDP), Bluetooth Low Energy (BLE), ESP32 Microcontrollers, Socket Communication
+
+#### 🧠 On-Device AI & Media Engines
+- **On-Device AI / ML:** On-Device Machine Learning, TensorFlow Lite, ML Kit, OpenCV / C++ Vision
+- **Audio & Media Engine:** `AudioRecord`, `AudioTrack`, `AcousticEchoCanceler`, `NoiseSuppressor`, DSP Signal Processing, Media3
+
+#### 🔐 Networking, Security & Protocols
+- **P2P & Mesh:** Decentralized Bluetooth Mesh Networking, Store-and-Forward Multi-Hop Routing, Sockets
+- **Cryptography:** AES-256-GCM, Elliptic Curve Diffie-Hellman (ECDH `secp256r1`), ECDSA Signatures, HKDF
+
+#### 🛠️ Build Systems & Testing
+- **Build & Tools:** Gradle (Kotlin DSL), KSP, ProGuard / R8 Optimization, Android Studio
+- **Version Control & CI/CD:** Git, GitHub Actions, CI/CD Automation
+- **Testing:** JUnit5, Mockk, Espresso, Compose UI Testing
 
 ---
 
-### Featured Work
+### 🚀 Featured Work
 
 | Project | Description |
 | :--- | :--- |
@@ -25,17 +45,18 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 | [Auto Equalizer](https://github.com/Markhande/audioCrisper) | On-device AI Audio Crisper & Equalizer |
 | [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | On-device AI Face Detection and Recognition System |
 | [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer Vision / C++ utility for precise geometric center detection |
+| [Interactive Resume & Portfolio](https://github.com/Markhande) | Interactive landing page showcasing resume, career milestones, and project portfolio |
 
 ---
 
-### Currently
+### 📍 Currently
 - Shipping Android products with Compose-first architecture  
 - Exploring Android Automotive (AOSP) + On-Device AI integrations  
 - Open to senior Android & Automotive Engineering roles  
 
 ---
 
-### Connect
+### 📬 Connect
 📍 Nagpur, Maharashtra · India  
 💼 Open to Work — [github.com/Markhande](https://github.com/Markhande)
 
