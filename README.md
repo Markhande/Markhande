@@ -45,7 +45,6 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 | [Auto Equalizer](https://github.com/Markhande/audioCrisper) | On-device AI Audio Crisper & Equalizer |
 | [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | On-device AI Face Detection and Recognition System |
 | [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer Vision / C++ utility for precise geometric center detection |
-| [Interactive Resume & Portfolio](https://github.com/Markhande) | Interactive landing page showcasing resume, career milestones, and project portfolio |
 
 ---
 
