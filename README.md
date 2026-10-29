@@ -8,35 +8,36 @@ I care about clean architecture, polished UX, and code that stays maintainable a
 
 ### What I work on
 - **Android** — Kotlin, Jetpack Compose, MVVM, Clean Architecture  
-- **Cross-platform** — Kotlin Multiplatform (KMP)  
-- **Automotive** — Android Automotive, AOSP, HAL / VHAL, HMI  
-- **On-device AI** — practical ML features that run on phone / car hardware  
-- **Hardware** — ESP32 and Bluetooth-connected controllers 
+- **Cross-Platform** — Kotlin Multiplatform (KMP)  
+- **Automotive** — Android Automotive OS (AAOS), AOSP, HAL / VHAL, HMI  
+- **On-Device AI** — Practical ML features running on mobile and car hardware  
+- **Hardware & IoT** — ESP32, Bluetooth Classic (RFCOMM), and BLE-connected controllers  
+
 ---
 
-### Featured work
+### Featured Work
 
-| Project | What it is |
-|--------|------------|
-| [Esp32_Bluetooth_Controller](https://github.com/Markhande/Esp32_Bluetooth_Controller) | Android + ESP32 Bluetooth control app |
-| [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer-vision / C++ utility for precise center detection |
-| [E-Vehicle Dashboard](https://github.com/Markhande/-E-Bike-Dashboard) | Coompose Dashbooard + MVVM |
-| [Auto Equalizer](https://github.com/Markhande/audioCrisper) | AI Audio Crisper |
-| [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | AI Auto Face Detection |
-| [Android Game](https://github.com/Markhande/Android-Game) | C# Hyper Causual Game |
+| Project | Description |
+| :--- | :--- |
+| [OffGridChat](https://github.com/Markhande/OffGridChatApp) | Offline Bluetooth P2P Mesh, E2E Encryption (AES-256-GCM / ECDH), Live Voice Calling |
+| [Esp32_Bluetooth_Controller](https://github.com/Markhande/Esp32_Bluetooth_Controller) | Android + ESP32 Bluetooth (Classic / BLE) hardware control application |
+| [E-Vehicle Dashboard](https://github.com/Markhande/-E-Bike-Dashboard) | Jetpack Compose EV instrument cluster dashboard built with MVVM |
+| [Auto Equalizer](https://github.com/Markhande/audioCrisper) | On-device AI Audio Crisper & Equalizer |
+| [Auto Face Detection](https://github.com/Markhande/Face-Detection-and-Recognition-System) | On-device AI Face Detection and Recognition System |
+| [Center_Finder](https://github.com/Markhande/Center_Finder) | Computer Vision / C++ utility for precise geometric center detection |
 
 ---
 
 ### Currently
-- Shipping Android products with Compose-first UI  
-- Exploring Automotive / AOSP + on-device AI  
-- Open to interesting Android / Automotive roles
+- Shipping Android products with Compose-first architecture  
+- Exploring Android Automotive (AOSP) + On-Device AI integrations  
+- Open to senior Android & Automotive Engineering roles  
 
 ---
 
 ### Connect
 📍 Nagpur, Maharashtra · India  
-💼 Open to work — [github.com/Markhande](https://github.com/Markhande)
+💼 Open to Work — [github.com/Markhande](https://github.com/Markhande)
 
 <!--
 Ideas to personalize later: LinkedIn, Play Store developer page, portfolio site.
